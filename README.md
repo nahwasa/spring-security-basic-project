@@ -8,10 +8,10 @@
 4. jsp 사용을 위해 jstl, tomcat-embed-jasper 추가
 5. 기본이라 생각하는 lombok 추가
 6. application.properties 생성 후 기본적인 설정(port, jsp파일 prefix, suffix)
-<hr>
+--
 DummyOfUserMapper는 DB 더미입니다. 실제론 DB에서 가져와야 합니다.
 SHA512로 암호화 했으므로 이미 DB에 SHA512로 인코딩 된 암호가 들어있다고 가정했습니다.
-<hr>
+--
 통과 되는 id, pw는 DummyOfUserMapper에 있습니다. 기본으로는
 id : dev
 pw : 1234
