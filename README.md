@@ -15,6 +15,5 @@ SHA512로 암호화 했으므로 이미 DB에 SHA512로 인코딩 된 암호가 
 
 ---
 통과 되는 id, pw는 DummyOfUserMapper에 있습니다. 기본으로는
-id : dev
-pw : 1234
+id/pw = dev/1234
 로 통과됩니다.
