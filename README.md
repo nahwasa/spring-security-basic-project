@@ -1,5 +1,5 @@
 # spring-security-basic-project
-블로그 스프링 시큐리티 설명 글 예시용 프로젝트
+블로그 [스프링 시큐리티 설명 글]([http://www.naver.com/](https://nahwasa.com/entry/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-Spring-Security-%EA%B8%B0%EB%B3%B8-%EC%84%B8%ED%8C%85-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%8B%9C%ED%81%90%EB%A6%AC%ED%8B%B0) 예시용 프로젝트
 
 기본 형태의 스프링 시큐리티만 적용한 프로젝트.
 1. 자바 gradle 프로젝트 생성
