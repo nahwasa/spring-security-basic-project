@@ -24,9 +24,4 @@ public class ViewController {
         model.addAttribute("userRoles", user.getAuthorities());
         return "loginSuccess";
     }
-
-    @GetMapping("/loginFail")
-    public String viewLoginFailPage() {
-        return "loginFail";
-    }
 }
